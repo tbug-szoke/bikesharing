@@ -1,7 +1,7 @@
 # Bikesharing for Des Moines
 
 ## Overview
-Following a road trip to NYC, where we utilized Citibike bikesharing to get around the city, we wanted to explore the feasibility of creating a new bikesharing business in Des Moines, Iowa.  We found potential investors, but needed to do some additional analytics to better understand the value proposition.  We utilize Citibike ridesharing data from August 2019 to create some analytics in Tableau to better understand bikeshare business.
+Following a road trip to NYC, where we utilized Citibike bikesharing to get around the city, we wanted to explore the feasibility of creating a new bikesharing business in Des Moines, Iowa.  We found potential investors, but needed to do some additional analytics to better understand the value proposition.  We utilize Citibike ridesharing data from August 2019 to create and publish some analytics to [Tableau Public](https://public.tableau.com/app/profile/theresa.szoke/viz/Bikesharing_16682860620810/CitiBikeInvestorProposal?publish=yes) to better understand bikeshare business.
 
 ## Results
 In order to help potential investors understand the bikesharing business, the following visualizations were prepared:
